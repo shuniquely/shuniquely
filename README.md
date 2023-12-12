@@ -1,6 +1,7 @@
-# :rabbit: HELLO! I'm Toram :chipmunk:
+# 🐰: HELLO! I'm Toram 🐿️
 
-안녕하세요 토람입니다!:cherry_blossom:
+
+안녕하세요 토람입니다! 🌸
 
 
 
